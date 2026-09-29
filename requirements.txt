@@ -1,0 +1,8 @@
+# Python 3.13 is recommended to match the validated Colab environment.
+# Streamlit Community Cloud supports Python 3.10–3.14 as of September 2026.
+
+streamlit==1.64.0
+groq==1.7.0
+sentence-transformers==6.1.0
+faiss-cpu==1.15.1
+numpy>=2.1,<2.3
