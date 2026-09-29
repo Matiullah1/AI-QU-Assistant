@@ -1,0 +1,10 @@
+{
+  "embedding_model": "BAAI/bge-m3",
+  "embedding_dimension": 1024,
+  "normalize_embeddings": true,
+  "similarity": "cosine",
+  "faiss_index_type": "IndexFlatIP",
+  "chunk_size": 700,
+  "chunk_overlap": 120,
+  "created_at_utc": "2026-09-29T22:06:29.060029+00:00"
+}
